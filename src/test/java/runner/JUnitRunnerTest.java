@@ -9,6 +9,6 @@ import cucumber.api.junit.Cucumber;
 	@CucumberOptions(
 			plugin = {"pretty"},
 			glue = {"stepdefs"},//Your step definitions package.
-			features = "C:/Users/mayankgupta/eclipse-workspace/Assignment/src/test/java/features/Chocolate.feature")
+			features ="classpath:features")
 	
 	public class JUnitRunnerTest {}
