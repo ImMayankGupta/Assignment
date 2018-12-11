@@ -9,7 +9,7 @@
 #
 
 Feature: Chocolate
-  As A good person, on Halloween night
+  As A good citizen, on Halloween night
   I want to distribute chocolate to kids and friends
   So That I bought a basket of chocolate bar
 
